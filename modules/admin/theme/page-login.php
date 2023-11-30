@@ -43,7 +43,7 @@
                             <div class="card-body pt-5">
                                 <a class="text-center" href="index.php"> <h4>Rosella</h4></a>
         
-                                <form class="mt-5 mb-5 login-input" action="modules/admin/theme/validad.php" method="post" onsubmit="return validarlogin();" >
+                                <form class="mt-5 mb-5 login-input" action="./validad.php" method="post" onsubmit="return validarlogin();" >
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Nombre De usuario" name="usernamelog" id="usernamelog" required/>
                                     </div>
