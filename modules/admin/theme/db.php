@@ -24,7 +24,7 @@ $password = "Celular528";
 $db = "mydb";
 $port = 3306;
 
-// Ruta al archivo de certificado de Azure (puede variar según tu configuración)
+
 $ssl_cert = '../../../base _de_datos/DigiCertGlobalRootCA.crt.pem"';
 
 
